@@ -11,6 +11,6 @@ fun main() {
             min = numbers[i]
         }
     }
-    println("===MAX=== $max")
-    println("====MIN===== $min")
+    println("MAX :$max")
+    println("MIN :$min")
 }
